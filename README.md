@@ -1,236 +1,226 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shahiddin%20Shaik&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20AI%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
-
-<!-- Typing Animation -->
-<a href="https://github.com/iamshahid22">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student+%40+AITS+Tirupati;Full+Stack+Developer+%7C+MERN+%2B+Django;AWS+Cloud+%7C+Docker+%7C+REST+APIs;Building+Real+Products%2C+One+Commit+at+a+Time" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:161b22&height=180&section=header&text=Shahiddin%20Shaik&fontSize=52&fontColor=58a6ff&fontAlignY=45&stroke=58a6ff&strokeWidth=1&animation=fadeIn" />
 
 <br/>
 
-<!-- Profile Views & Socials -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=iamshahid22&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
-  &nbsp;
-  <a href="mailto:shahiddinshaik1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/iamshahid1309">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Full+Stack+Developer+%E2%80%94+MERN+%2B+Django+%2B+AWS;Final+Year+CSE+%40+AITS+Tirupati+%7C+Class+of+2026;Building+production-grade+apps%2C+not+just+demos;Open+to+SDE+Roles+%26+Internships+%E2%86%92" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamshahid1309-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshahid1309)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-shahiddinshaik1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahiddinshaik1@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-iamshahid22-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iamshahid22)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=iamshahid22&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/iamshahid22)
+
+</div>
+
+<br/>
+
+---
+
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=iamshahid22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
+
+### `> whoami`
+
+```yaml
+name     : Shahiddin Shaik
+alias    : Shahid
+role     : Full Stack Developer
+stack    : Python · Django · React · Node · AWS · Docker
+edu      : B.Tech CSE, AITS Tirupati (2022–2026)
+status   : Open to internships & SDE roles
+location : Tirupati, Andhra Pradesh, India
+```
+
+<br clear="right"/>
+
+---
+
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+```
+Python  ████████████████████  Primary
+JS      ███████████████░░░░░  Proficient
+Java    ████████░░░░░░░░░░░░  Familiar
+C       ███████░░░░░░░░░░░░░  Familiar
+```
+
+**Backend**
+```
+Django      ████████████████████
+Flask       ██████████████░░░░░░
+Node.js     █████████████░░░░░░░
+Express.js  ████████████░░░░░░░░
+REST APIs   ████████████████████
+```
+
+</td>
+<td valign="top" width="50%">
+
+**Frontend**
+```
+React.js    ██████████████████░░
+HTML / CSS  ████████████████████
+Bootstrap   ███████████████░░░░░
+```
+
+**Databases & Cloud**
+```
+PostgreSQL  ████████████████░░░░
+MongoDB     ███████████████░░░░░
+MySQL       █████████████░░░░░░░
+AWS         ████████████░░░░░░░░
+Docker      ███████████░░░░░░░░░
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## ðŸ‘¨â€ðŸ’» About Me
+## Experience
+
+**Full Stack Developer Intern** &nbsp;·&nbsp; SmartBridge Educational Services &nbsp;·&nbsp; `Dec 2025 – Present`
+> Built responsive MERN stack features — improved UI performance by **20%**. Developed and tested REST APIs for authentication and CRUD operations. Shipped features in agile sprints with cross-functional team.
+
+**Salesforce Developer Intern** &nbsp;·&nbsp; SmartBridge Educational Services &nbsp;·&nbsp; `May 2025 – Jul 2025`
+> Customised Salesforce CRM using Apex, SOQL, and workflow rules. Automated business logic and built reporting dashboards used across sales teams.
+
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Fruit Identification — AI & CNN
+`Python` `TensorFlow` `Flask` `CNN`
+
+CNN model achieving **89% accuracy** across 10+ fruit categories with a Flask web interface for real-time image prediction. End-to-end ML deployment.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-%23161b22?style=flat-square&logo=github&logoColor=58a6ff)](https://github.com/iamshahid22/fruit-identification-cnn)
+
+</td>
+<td width="50%" valign="top">
+
+### Task Manager — Full Stack
+`Django` `React` `PostgreSQL` `AWS EC2` `Docker` `JWT`
+
+Production-ready task manager with JWT auth and CRUD. **Deployed on AWS EC2** via Docker — real cloud infra, not localhost.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-%23161b22?style=flat-square&logo=github&logoColor=58a6ff)](https://github.com/iamshahid22/task-manager-app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Airlines Ticket System — Salesforce
+`Salesforce` `Apex` `SOQL` `Workflows`
+
+Booking management system with Apex triggers, automated workflows, and analytics dashboards built on Salesforce CRM.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-%23161b22?style=flat-square&logo=github&logoColor=58a6ff)](https://github.com/iamshahid22/airlines-ticket-salesforce)
+
+</td>
+<td width="50%" valign="top">
+
+### More coming soon...
+
+Currently building new projects in **System Design** and **Cloud-native** architecture.
+
+[![GitHub](https://img.shields.io/badge/See_All_Repos-%23161b22?style=flat-square&logo=github&logoColor=58a6ff)](https://github.com/iamshahid22?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=iamshahid22&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+
+<br/><br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshahid22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamshahid22&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+
+</div>
+
+---
+
+## Certifications
+
+| Issuer | Certification |
+|--------|--------------|
+| ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) | Python for Data Science |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) | Cloud Foundations |
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | Cloud Foundations |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | Developer Specialization |
+| ![AWS](https://img.shields.io/badge/AWS_Educate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) | ML & Generative AI |
+
+---
+
+## Currently
 
 ```python
-class Shahid:
-    name        = "Shahiddin Shaik"
-    role        = "Full Stack Developer (MERN + Django)"
-    education   = "B.Tech CSE @ AITS Tirupati (2022â€“2026)"
-    cgpa        = 7.0
-
-    stack       = ["Python", "Django", "React.js", "Node.js",
-                   "PostgreSQL", "MongoDB", "AWS", "Docker"]
-
-    currently   = ["Sharpening DSA skills",
-                   "Building production-grade full stack apps",
-                   "Exploring AWS & cloud-native architecture"]
-
-    interests   = ["Backend Engineering", "Cloud & DevOps",
-                   "AI/ML Applications", "Open Source",
-                   "Photography & Travel Storytelling"]
-
-    goals_2026  = "Land a full stack / backend SDE role or impactful internship"
+learning  = ["System Design", "AWS Solutions Architect", "Redis & Caching"]
+practicing = "DSA daily on LeetCode (Python)"
+building  = "Next full stack project with real deployment"
+open_to   = ["SDE Internships 2026", "Full Stack Roles", "Open Source"]
 ```
 
 ---
-
-## ðŸ› ï¸ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## ðŸš€ Featured Projects
-
-### ðŸŽ Fruit Identification System â€” AI & CNN
-> **Python Â· TensorFlow Â· Flask Â· CNN**
-
-- Built a CNN image classification model achieving **89% accuracy** across 10+ fruit categories
-- Integrated a Flask web app for real-time image upload and live prediction
-- Focused on practical ML deployment â€” not just model training, but a working product
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/iamshahid22/fruit-identification-cnn)
-
----
-
-### âœ… Task Management Web App â€” Full Stack
-> **Django Â· React.js Â· PostgreSQL Â· AWS EC2 Â· Docker Â· JWT**
-
-- Built a production-ready task manager with JWT-based authentication and full CRUD operations
-- Deployed on **AWS EC2** using Docker â€” real cloud deployment, not localhost demos
-- Clean REST API backend + responsive React frontend
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/iamshahid22/task-manager-app)
-
----
-
-### âœˆï¸ Airlines Ticket Management System â€” Salesforce
-> **Salesforce Â· Apex Â· SOQL Â· Workflows**
-
-- Built booking management workflows with Apex triggers and automation
-- Created reporting dashboards and business logic automation on Salesforce CRM
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/iamshahid22/airlines-ticket-salesforce)
-
----
-
-## ðŸ’¼ Experience
-
-| Role | Company | Duration |
-|------|---------|----------|
-| ðŸ”µ **Full Stack Developer Intern** | SmartBridge Educational Services | Dec 2025 â€“ Present |
-| ðŸŸ¡ **Salesforce Developer Intern** | SmartBridge Educational Services | May 2025 â€“ Jul 2025 |
-
-> At SmartBridge, I built MERN stack features improving UI performance by **20%**, developed and tested REST APIs for authentication and CRUD, and collaborated in agile sprints to ship scalable web applications.
-
----
-
-## ðŸ“œ Certifications
-
-- ðŸ† **IBM** â€” Python for Data Science
-- â˜ï¸ **AWS** â€” Cloud Foundations
-- ðŸŒ **Google** â€” Cloud Foundations
-- ðŸƒ **MongoDB** â€” Developer Specialization
-- ðŸ¤– **AWS Educate** â€” ML & Generative AI
-
----
-
-## ðŸ“Š GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamshahid22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshahid22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=iamshahid22&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## ðŸ† GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamshahid22&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-## ðŸ Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamshahid22/iamshahid22/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamshahid22/iamshahid22/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/iamshahid22/iamshahid22/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/iamshahid22/iamshahid22/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-</div>
+<br/><br/>
 
----
+<sub>— Always learning. Always shipping. —</sub>
 
-## ðŸ“š Currently Learning
+<br/>
 
-- ðŸ”¹ **System Design** â€” Scaling apps beyond the basics
-- ðŸ”¹ **AWS Solutions Architect** â€” Moving beyond Cloud Foundations
-- ðŸ”¹ **DSA** â€” Daily LeetCode practice (Python)
-- ðŸ”¹ **Redis & Caching** â€” Performance optimization patterns
-
----
-
-## ðŸŽ¯ Goals for 2026
-
-- [ ] Land a full stack / backend SDE role or meaningful internship
-- [ ] Contribute to a notable open source project
-- [ ] Deploy 2+ polished full stack apps with real users
-- [ ] Earn AWS Solutions Architect Associate certification
-- [ ] Hit 100+ LeetCode problems solved
-- [ ] Build a personal portfolio website
-
----
-
-## ðŸ¤ Connect With Me
-
-<div align="center">
-
-<a href="mailto:shahiddinshaik1@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/iamshahid1309">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/iamshahid22">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" />
 
 </div>
 
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
-
-<sub>âš¡ Built with intention. Always learning, always shipping.</sub>
-
-</div>
