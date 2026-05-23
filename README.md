@@ -1,18 +1,15 @@
-# Shahiddin Shaik
-
-**Full Stack Developer — MERN + Django + AWS**  
-Final Year CSE @ AITS Tirupati | Class of 2026  
-Building production‑grade apps, not just demos  
-Open to SDE Roles & Internships →  
+# Shahiddin Shaik  
+**Full Stack Developer (MERN + Django + AWS)**  
+Tirupati, Andhra Pradesh, India | Open to SDE Roles & Internships 2026  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamshahid1309-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshahid1309)  
-[![Gmail](https://img.shields.io/badge/Gmail-shahiddinshaik1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahiddinshaik1@gmail.com)  
-[![GitHub](https://img.shields.io/badge/Github-iamshahid22-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iamshahid22)  
+[![Gmail](https://img.shields.io/badge/Email-shahiddinshaik1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahiddinshaik1@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-iamshahid22-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iamshahid22)  
 [![Profile Views](https://komarev.com/ghpvc/?username=iamshahid22&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/iamshahid22)
 
 ---
 
-### About Me
+## About Me
 
 ```yaml
 name     : Shahiddin Shaik
@@ -23,6 +20,9 @@ edu      : B.Tech CSE, AITS Tirupati (2022–2026)
 status   : Open to internships & SDE roles
 location : Tirupati, Andhra Pradesh, India
 ```
+
+I focus on building **production‑grade full‑stack systems** using Python/Django, MERN, and AWS, with an emphasis on clean architecture, performance, and real‑world deployment.  
+I’m actively preparing for **SDE roles** and enjoy working on system design, cloud‑native apps, and scalable backend services.
 
 ---
 
@@ -35,22 +35,22 @@ location : Tirupati, Andhra Pradesh, India
 - **C** – Familiar  
 
 ### Backend & APIs
-- Django  
-- Flask  
-- Node.js + Express.js  
-- REST APIs  
+- **Django** – Production‑grade apps  
+- **Flask** – Lightweight services  
+- **Node.js + Express.js** – REST APIs, MERN  
+- **REST APIs** – Auth, CRUD, performance  
 
 ### Frontend
-- React.js  
-- HTML5 / CSS3  
-- Bootstrap  
+- **React.js** – Component‑based UIs  
+- **HTML5 / CSS3**  
+- **Bootstrap** – Responsive layouts  
 
 ### Databases & Cloud
-- PostgreSQL  
-- MongoDB  
-- MySQL  
-- AWS  
-- Docker  
+- **PostgreSQL** – Primary relational DB  
+- **MongoDB** – Document‑oriented services  
+- **MySQL** – Additional relational workloads  
+- **AWS** – EC2, deployment, cloud fundamentals  
+- **Docker** – Containerization & deployment  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -74,24 +74,24 @@ location : Tirupati, Andhra Pradesh, India
 
 ### Full Stack Developer Intern  
 **SmartBridge Educational Services** · Dec 2025 – Present  
-- Built responsive MERN‑stack features and improved UI performance by **20%**.  
-- Developed and tested REST APIs for authentication and CRUD operations.  
-- Delivered features in agile sprints with a cross‑functional team.  
+- Built responsive **MERN‑stack features** and improved UI performance by **20%**.  
+- Designed and tested **REST APIs** for authentication and CRUD operations.  
+- Delivered features in **agile sprints** alongside cross‑functional teams.  
 
 ### Salesforce Developer Intern  
 **SmartBridge Educational Services** · May 2025 – Jul 2025  
-- Customised Salesforce CRM using Apex, SOQL, and workflow rules.  
-- Automated business logic and built reporting dashboards used across sales teams.  
+- Customized **Salesforce CRM** using Apex, SOQL, and workflow rules.  
+- Automated business logic and built **analytics dashboards** used across sales teams.  
 
 ---
 
-## Projects
+## Key Projects
 
 ### Fruit Identification — AI & CNN  
 `Python` `TensorFlow` `Flask` `CNN`  
-- CNN model achieving **89% accuracy** on 10+ fruit categories.  
-- Flask web interface for real‑time image prediction.  
-- End‑to‑end ML deployment.  
+- CNN model achieving **89% accuracy** across 10+ fruit categories.  
+- Flask web interface for **real‑time image prediction**.  
+- End‑to‑end **ML deployment pipeline**.  
 
 [View Repo](https://github.com/iamshahid22/fruit-identification-cnn)
 
@@ -99,8 +99,8 @@ location : Tirupati, Andhra Pradesh, India
 
 ### Task Manager — Full Stack  
 `Django` `React` `PostgreSQL` `AWS EC2` `Docker` `JWT`  
-- Production‑ready task manager with JWT auth and CRUD operations.  
-- Deployed on **AWS EC2** via Docker — real cloud infrastructure, not localhost.  
+- **Production‑ready task manager** with JWT auth and CRUD.  
+- Deployed on **AWS EC2 via Docker** — real cloud infrastructure, not localhost.  
 
 [View Repo](https://github.com/iamshahid22/task-manager-app)
 
@@ -108,14 +108,15 @@ location : Tirupati, Andhra Pradesh, India
 
 ### Airlines Ticket System — Salesforce  
 `Salesforce` `Apex` `SOQL` `Workflows`  
-- Booking management system with Apex triggers, automated workflows, and analytics dashboards.  
+- Booking management system with **Apex triggers**, automated workflows, and analytics dashboards.  
 
 [View Repo](https://github.com/iamshahid22/airlines-ticket-salesforce)
 
 ---
 
-### More Projects  
-Currently building new projects in **System Design** and **Cloud‑native** architecture.  
+### Upcoming Projects  
+- Exploring **system‑design‑style** services (e.g., scaled‑down booking / task systems).  
+- Building **cloud‑native** apps with Docker, AWS, and proper DevOps practices.  
 
 [See All Repos](https://github.com/iamshahid22?tab=repositories)
 
@@ -141,7 +142,7 @@ Currently building new projects in **System Design** and **Cloud‑native** arch
 
 ---
 
-## Currently
+## What I’m Working On
 
 ```python
 learning  = ["System Design", "AWS Solutions Architect", "Redis & Caching"]
@@ -152,9 +153,9 @@ open_to   = ["SDE Internships 2026", "Full Stack Roles", "Open Source"]
 
 ---
 
-### GitHub Contributions
+## GitHub Contributions
 
-![GitHub Snake](https://raw.githubusercontent.com/iamshahid22/iamshahid22/output/github-contribution-grid-snake-dark.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/iamshahid22/iamshahid22/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
