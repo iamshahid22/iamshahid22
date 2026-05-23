@@ -1,6 +1,6 @@
 # Shahiddin Shaik  
 **Full Stack Developer (MERN + Django + AWS)**  
-Tirupati, Andhra Pradesh, India | Open to SDE Roles & Internships 2026  
+Hyderabad, India | Open to SDE Roles & Internships 2026  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamshahid1309-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshahid1309)  
 [![Gmail](https://img.shields.io/badge/Email-shahiddinshaik1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahiddinshaik1@gmail.com)  
