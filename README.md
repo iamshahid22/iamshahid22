@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=SHAHID;FULL+STACK+DEVELOPER;AWS+CLOUD+LEARNER;BUILDING+MY+FUTURE+ONE+PROJECT+AT+A+TIME" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=SHAHIDDIN SHAIK;FULL+STACK+DEVELOPER;AWS+CLOUD+LEARNER;BUILDING+MY+FUTURE+ONE+PROJECT+AT+A+TIME" />
 
 <br>
 
@@ -17,11 +17,11 @@
 # ⚡ MISSION CONTROL
 
 ```yaml
-Name: Shahid
+Name: SHAHIDDIN SHAIK
 Age: 21
 Location: Kurnool, Andhra Pradesh, India
 Education: B.Tech Computer Science Engineering
-Current Status: Final Year Student
+Current Status: Graduated
 
 Primary Goal:
   - Become a Software Engineer
@@ -149,7 +149,7 @@ Responsive travel website designed for future tourism business ideas.
 ---
 
 # 🗺️ ROADMAP
-
+<div align="center">
 ```text
 HTML/CSS
    ↓
@@ -167,7 +167,7 @@ System Design
    ↓
 Software Engineer
 ```
-
+</div>
 ---
 
 # 🏆 2026 TARGETS
