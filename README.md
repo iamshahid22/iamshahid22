@@ -1,102 +1,145 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=SHAHIDDIN+SHAIK;FULL+STACK+DEVELOPER;AWS+CLOUD+LEARNER;BUILDING+MY+FUTURE+ONE+PROJECT+AT+A+TIME" />
+# 👋 SHAHIDDIN SHAIK
 
-<br><br>
+### Developer • Builder • Traveler
 
-<img src="https://komarev.com/ghpvc/?username=iamshahid22&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AWS+Cloud+Learner;Building+Projects+Every+Day;Future+Software+Engineer;Developer+%7C+Builder+%7C+Traveler" />
 
-<img src="https://img.shields.io/github/followers/iamshahid22?style=for-the-badge&color=00e5ff" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=iamshahid22&label=Profile+Views&style=for-the-badge&color=00E5FF"/>
+
+<img src="https://img.shields.io/github/followers/iamshahid22?style=for-the-badge&color=00E5FF"/>
 
 </div>
 
 ---
 
-# ⚡ MISSION CONTROL
+# 🚀 CURRENT MISSION
 
 ```yaml
-Name: SHAHIDDIN SHAIK
-Age: 21
-Location: Kurnool, Andhra Pradesh, India
+Name: Shahiddin Shaik
+
+Role: Full Stack Developer (Learning & Building)
 
 Education:
   Degree: B.Tech Computer Science Engineering
-  Status: Graduate
 
-Primary Goal:
-  - Become a Software Engineer
-
-Long Term Goals:
-  - Travel The World
-  - Build Amazing Products
-  - Create Financial Freedom
-
-Interests:
-  - Web Development
-  - AWS Cloud
+Focus:
+  - Full Stack Development
+  - AWS Cloud Computing
+  - Data Structures & Algorithms
   - Artificial Intelligence
-  - Photography
-  - Travel
-  - New Technologies
+
+Goal:
+  - Become a Software Engineer
+  - Build Products Used By Thousands
+  - Travel The World
 ```
 
 ---
 
-# 🚀 CURRENT FOCUS
-
-<table>
-<tr>
-
-<td width="50%">
+# ⚡ WHAT I'M DOING RIGHT NOW
 
 ### 📚 Learning
 
-* Data Structures & Algorithms
-* Full Stack Development
-* AWS Cloud Computing
-* System Design
-* AI & Machine Learning
+- Full Stack Web Development
+- AWS Cloud Computing
+- Data Structures & Algorithms
+- System Design Fundamentals
+- AI & Machine Learning
 
-</td>
+### 🛠 Building
 
-<td width="50%">
-
-### 🎯 Building
-
-* AI Sales Call Agent
-* Smart Scheduler
-* Calorie Calculator
-* YouTube Clone
-* Travel Projects
-
-</td>
-
-</tr>
-</table>
+- 🤖 AI Sales Call Agent
+- 📅 Smart Scheduler & Productivity Tracker
+- 🍎 Calorie Calculator
+- 🎥 YouTube Clone
+- ✈️ Travel Website Projects
 
 ---
 
-# ⚔️ DEVELOPER ARSENAL
+# 🛣 MY JOURNEY
 
-<div align="center">
+```text
+Started With Curiosity
+          │
+          ▼
+Learned Programming Basics
+          │
+          ▼
+Built Web Projects
+          │
+          ▼
+Learning Full Stack Development
+          │
+          ▼
+Exploring AWS & AI
+          │
+          ▼
+Future Software Engineer
+```
 
-### Frontend
+---
 
+# 💻 TECH STACK
+
+## Frontend
+
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
 
-### Backend
+## Backend
 
+<p>
 <img src="https://skillicons.dev/icons?i=python,nodejs" />
+</p>
 
-### Database
+## Database
 
+<p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
 
-### Cloud & Tools
+## Cloud & Tools
 
+<p>
 <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode,docker" />
+</p>
 
-</div>
+---
+
+# 🚧 FEATURED PROJECTS
+
+## 🤖 AI Sales Call Agent
+
+An AI-powered assistant that helps automate sales conversations using voice and AI technologies.
+
+---
+
+## 📅 Smart Scheduler
+
+A productivity-focused scheduling application designed to improve planning and time management.
+
+---
+
+## 🍎 Calorie Calculator
+
+A nutrition tracking tool that helps users monitor calorie intake and health goals.
+
+---
+
+## 🎥 YouTube Clone
+
+Frontend-focused project inspired by YouTube's user experience and interface.
+
+---
+
+## ✈️ Travel Platform
+
+A modern travel-focused website designed around exploration and tourism.
 
 ---
 
@@ -104,9 +147,9 @@ Interests:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamshahid22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamshahid22&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshahid22&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshahid22&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -120,85 +163,38 @@ Interests:
 
 ---
 
-# 🚧 FEATURED PROJECTS
+# 🎯 2026 GOALS
 
-## 🤖 AI Sales Call Agent
-
-Intelligent AI calling assistant built using automation, speech processing and conversational AI.
-
----
-
-## 📅 Smart Scheduler
-
-Productivity management platform with smart scheduling and analytics.
-
----
-
-## 🍎 Calorie Calculator
-
-Personal nutrition tracking system with health recommendations.
-
----
-
-## 🎥 YouTube Clone
-
-Modern frontend application inspired by YouTube UI and user experience.
-
----
-
-## ✈️ Travel Platform
-
-Responsive travel website designed for future tourism business ideas.
-
----
-
-# 🗺️ ROADMAP
-
-```text
-HTML/CSS
-   ↓
-JavaScript
-   ↓
-React
-   ↓
-Backend Development
-   ↓
-Databases
-   ↓
-AWS Cloud
-   ↓
-System Design
-   ↓
-Software Engineer
-```
-
----
-
-# 🏆 2026 TARGETS
-
-* [ ] Master Full Stack Development
-* [ ] Complete AWS Certifications
-* [ ] Build 10+ Production Projects
-* [ ] Improve DSA Skills
-* [ ] Contribute To Open Source
-* [ ] Get A Software Engineering Job
-* [ ] Travel Across India
-* [ ] Launch Dhain Travel Brand
+- [ ] Master Full Stack Development
+- [ ] Build 10+ Real World Projects
+- [ ] Earn AWS Certifications
+- [ ] Improve DSA Skills
+- [ ] Contribute To Open Source
+- [ ] Get A Software Engineering Role
+- [ ] Travel Across India
+- [ ] Launch Dhain Travel Brand
 
 ---
 
 # 📸 BEYOND CODING
 
-* 📷 Photography
-* 🌍 Travel
-* 🚀 Learning New Skills
-* 💻 Technology Exploration
-* 🧠 Problem Solving
-* ⚡ Building Things
+### Things I Enjoy
+
+📷 Photography
+
+🌍 Traveling
+
+🚀 Learning New Technologies
+
+💡 Building New Ideas
+
+🎮 Exploring Digital Experiences
+
+📚 Continuous Self Improvement
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🌐 CONNECT
 
 <div align="center">
 
@@ -220,10 +216,10 @@ Software Engineer
 
 <div align="center">
 
-## 💡 Personal Motto
+## 💡 PERSONAL MOTTO
 
 ### "Small progress every day compounds into extraordinary results."
 
-⭐ Building • Learning • Improving
+### ⭐ Building • Learning • Improving
 
 </div>
