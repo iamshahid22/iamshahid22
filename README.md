@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=SHAHIDDIN SHAIK;FULL+STACK+DEVELOPER;AWS+CLOUD+LEARNER;BUILDING+MY+FUTURE+ONE+PROJECT+AT+A+TIME" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=SHAHIDDIN+SHAIK;FULL+STACK+DEVELOPER;AWS+CLOUD+LEARNER;BUILDING+MY+FUTURE+ONE+PROJECT+AT+A+TIME" />
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=iamshahid22&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" />
 
 <img src="https://img.shields.io/github/followers/iamshahid22?style=for-the-badge&color=00e5ff" />
-
-<img src="https://img.shields.io/github/stars/iamshahid22?style=for-the-badge&color=ffd700" />
 
 </div>
 
@@ -20,13 +18,15 @@
 Name: SHAHIDDIN SHAIK
 Age: 21
 Location: Kurnool, Andhra Pradesh, India
-Education: B.Tech Computer Science Engineering
-Current Status: Graduated
+
+Education:
+  Degree: B.Tech Computer Science Engineering
+  Status: Graduate
 
 Primary Goal:
   - Become a Software Engineer
 
-Long Term Goal:
+Long Term Goals:
   - Travel The World
   - Build Amazing Products
   - Create Financial Freedom
@@ -46,6 +46,7 @@ Interests:
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 📚 Learning
@@ -69,6 +70,7 @@ Interests:
 * Travel Projects
 
 </td>
+
 </tr>
 </table>
 
@@ -102,11 +104,13 @@ Interests:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamshahid22&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamshahid22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshahid22&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshahid22&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -149,7 +153,7 @@ Responsive travel website designed for future tourism business ideas.
 ---
 
 # 🗺️ ROADMAP
-<div align="center">
+
 ```text
 HTML/CSS
    ↓
@@ -167,59 +171,47 @@ System Design
    ↓
 Software Engineer
 ```
-</div>
+
 ---
 
 # 🏆 2026 TARGETS
 
-☐ Master Full Stack Development
-
-☐ Complete AWS Certifications
-
-☐ Build 10+ Production Projects
-
-☐ Improve DSA Skills
-
-☐ Contribute To Open Source
-
-☐ Get A Software Engineering Job
-
-☐ Travel Across India
-
-☐ Launch Dhain Travel Brand
+* [ ] Master Full Stack Development
+* [ ] Complete AWS Certifications
+* [ ] Build 10+ Production Projects
+* [ ] Improve DSA Skills
+* [ ] Contribute To Open Source
+* [ ] Get A Software Engineering Job
+* [ ] Travel Across India
+* [ ] Launch Dhain Travel Brand
 
 ---
 
 # 📸 BEYOND CODING
 
-Photography 📷
-
-Travel 🌍
-
-Learning New Skills 🚀
-
-Technology Exploration 💻
-
-Problem Solving 🧠
-
-Building Things ⚡
+* 📷 Photography
+* 🌍 Travel
+* 🚀 Learning New Skills
+* 💻 Technology Exploration
+* 🧠 Problem Solving
+* ⚡ Building Things
 
 ---
 
-# 🌐 CONNECT
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/iamshahid22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/iamshahid1309/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shahiddinshaik1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -228,8 +220,10 @@ Building Things ⚡
 
 <div align="center">
 
+## 💡 Personal Motto
+
 ### "Small progress every day compounds into extraordinary results."
 
-⭐ Building. Learning. Improving.
+⭐ Building • Learning • Improving
 
 </div>
