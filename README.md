@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- SVG Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20 Shahiddin Shaik's%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast%20%7C%20AI%20%26%20ML%20Learner%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20Shahiddin%20Shaik's%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast%20%7C%20AI%20%26%20ML%20Learner%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%" />
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there%2C+I'm+Shahiddin Shaik+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AWS+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;AI+%26+ML+Learner+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Let's+build+something+amazing!+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there%2C+I'm+Shahiddin+Shaik+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AWS+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;AI+%26+ML+Learner+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Let's+build+something+amazing!+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=iamshahid22&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/iamshahid22?label=Followers&style=for-the-badge&color=0d76a8&labelColor=1a1a2e" alt="Followers" />
@@ -19,12 +16,11 @@
 
 <br/><br/>
 
-<!-- Social Badges -->
 <a href="https://github.com/iamshahid22">
   <img src="https://img.shields.io/badge/GitHub-iamshahid22-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/iamshahid1309">
+<a href="https://www.linkedin.com/in/iamshahid1309/">
   <img src="https://img.shields.io/badge/LinkedIn-iamshahid1309-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
@@ -32,15 +28,18 @@
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://your-portfolio.vercel.app">
+<a href="https://shahiddin-shaik-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://twitter.com/iamshahid22">
+  <img src="https://img.shields.io/badge/Twitter%2FX-iamshahid22-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-<!-- About Me Section -->
 <div align="center">
 
 ## 🧑‍💻 About Me
@@ -63,7 +62,7 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 <tr>
 <td>
 
-- 🎓 Graduate **B.Tech CSE** AITS Tirupati
+- 🎓 Graduate **B.Tech CSE** — AITS Tirupati
 - 💼 Training at **10000 Coders**, Hyderabad
 - 🌱 Currently learning **DSA, Full Stack, AWS & ML**
 - 🔭 Working on **FinTrack** — a FastAPI personal finance app
@@ -73,7 +72,8 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 </td>
 <td>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" />
+<!-- Replace 'photo.png' with your actual uploaded photo filename -->
+<img src="https://raw.githubusercontent.com/iamshahid22/iamshahid22/main/photo.png" width="200" height="200" style="border-radius:50%" alt="Shahiddin Shaik" />
 
 </td>
 </tr>
@@ -83,14 +83,37 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 
 ---
 
-<!-- Tech Stack -->
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+## 🏆 Coding Profiles
 
 </div>
 
 <div align="center">
+
+<a href="https://leetcode.com/u/iamshahid22/">
+  <img src="https://img.shields.io/badge/LeetCode-iamshahid22-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/iam_shahid1309">
+  <img src="https://img.shields.io/badge/HackerRank-iam_shahid1309-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/iamshahid09">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-iamshahid09-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/iam_shahid22">
+  <img src="https://img.shields.io/badge/CodeChef-iam_shahid22-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
 
@@ -141,55 +164,32 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 
 ---
 
-<!-- GitHub Analytics -->
 <div align="center">
 
 ## 📊 GitHub Analytics
 
-<!-- Auto Dark/Light Mode Stats -->
 ### 📈 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iamshahid22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&icon_color=6e40c9&text_color=ffffff&count_private=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=iamshahid22&show_icons=true&theme=default&hide_border=true&title_color=0d76a8&icon_color=6e40c9&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=iamshahid22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&icon_color=6e40c9&text_color=ffffff&count_private=true&include_all_commits=true" height="180" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=iamshahid22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&icon_color=6e40c9&text_color=ffffff&count_private=true&include_all_commits=true" height="180" />
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshahid22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&text_color=ffffff&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshahid22&layout=compact&theme=default&hide_border=true&title_color=0d76a8&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshahid22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&text_color=ffffff&langs_count=8" height="180" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshahid22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7F7&text_color=ffffff&langs_count=8" height="180" />
 
 ### 🔥 GitHub Streak
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=iamshahid22&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7F7&fire=6e40c9&currStreakLabel=6EE7F7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=iamshahid22&theme=default&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamshahid22&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7F7&fire=6e40c9&currStreakLabel=6EE7F7" width="70%" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamshahid22&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7F7&fire=6e40c9&currStreakLabel=6EE7F7" width="70%" />
 
 ### 🏆 GitHub Trophies
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=iamshahid22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=iamshahid22&theme=flat&no-frame=true&column=7&margin-w=4" />
-  <img src="https://github-profile-trophy.vercel.app/?username=iamshahid22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=iamshahid22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
 
 ### 📉 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=iamshahid22&bg_color=0D1117&color=6EE7F7&line=6e40c9&point=ffffff&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=iamshahid22&theme=github-compact&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshahid22&bg_color=0D1117&color=6EE7F7&line=6e40c9&point=ffffff&area=true&hide_border=true" width="100%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshahid22&bg_color=0D1117&color=6EE7F7&line=6e40c9&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-<!-- Featured Projects -->
 <div align="center">
 
 ## 🚀 Featured Projects
@@ -280,12 +280,12 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 <tr>
 
 <td colspan="2">
-<h3 align="center">🌐 Portfolio Website — Shahiddin</h3>
+<h3 align="center">🌐 Portfolio Website — Shahiddin Shaik</h3>
 <div align="center">
   <a href="https://github.com/iamshahid22/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.vercel.app" target="_blank">
+  <a href="https://shahiddin-shaik-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-6EE7F7?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </div>
@@ -303,35 +303,9 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 
 ---
 
-<!-- Learning Journey -->
 <div align="center">
 
 ## 📚 Learning Journey & Roadmap
-
-</div>
-
-```mermaid
-graph LR
-    A[🏁 Started] --> B[HTML & CSS]
-    B --> C[JavaScript & React]
-    C --> D[Python & Django]
-    D --> E[Databases - SQL & NoSQL]
-    E --> F[FastAPI & REST APIs]
-    F --> G[DSA 🔄 In Progress]
-    G --> H[AWS Cloud ⏳]
-    H --> I[Machine Learning ⏳]
-    I --> J[System Design ⏳]
-    J --> K[🌟 Full Stack Engineer]
-
-    style A fill:#6e40c9,color:#fff
-    style K fill:#6EE7F7,color:#000
-    style G fill:#f7df1e,color:#000
-    style H fill:#f7df1e,color:#000
-    style I fill:#f7df1e,color:#000
-    style J fill:#f7df1e,color:#000
-```
-
-<div align="center">
 
 | Category | Topics | Status |
 |---|---|---|
@@ -340,68 +314,73 @@ graph LR
 | ☁️ **AWS Cloud** | EC2, S3, Lambda, RDS, IAM | ⏳ Learning |
 | 🤖 **Machine Learning** | Supervised, NLP, Model Deployment | ⏳ Coming Soon |
 | 🏗️ **System Design** | Scalability, Microservices, Caching | ⏳ Coming Soon |
-| 🐘 **PostgreSQL** | Advanced SQL, Indexing, Optimization | ✅ Phase 11 Done |
+| 🐘 **PostgreSQL** | Advanced SQL, Indexing, Optimization | ✅ Done |
 | 🔧 **Git & GitHub** | Branching, CI/CD, GitHub Actions | ✅ Completed |
 
 </div>
 
 ---
 
-<!-- Dev Quote -->
 <div align="center">
 
 ## 💬 Random Dev Quote
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-</picture>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 
 </div>
 
 ---
 
-<!-- Snake Contribution Animation -->
 <div align="center">
 
 ## 🐍 My Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamshahid22/iamshahid22/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamshahid22/iamshahid22/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/iamshahid22/iamshahid22/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
-</picture>
-
-> ⚙️ **Setup:** Workflow is configured! Snake animation will generate automatically.
+<img src="https://raw.githubusercontent.com/iamshahid22/iamshahid22/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
 </div>
 
 ---
 
-<!-- Connect Section -->
 <div align="center">
 
 ## 🌐 Connect With Me
 
 <a href="https://github.com/iamshahid22">
-  <img src="https://img.shields.io/badge/GitHub-iamshahid22-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+  <img src="https://img.shields.io/badge/GitHub-iamshahid22-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/iamshahid1309">
+<a href="https://www.linkedin.com/in/iamshahid1309/">
   <img src="https://img.shields.io/badge/LinkedIn-iamshahid1309-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:shahiddinshaik1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-shahiddinshaik1@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-shahiddinshaik1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://your-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-ByteByShahid-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+<a href="https://shahiddin-shaik-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://instagram.com/bytebyshahid">
-  <img src="https://img.shields.io/badge/Instagram-bytebyshahid-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://twitter.com/iamshahid22">
+  <img src="https://img.shields.io/badge/Twitter%2FX-iamshahid22-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/iamshahid22/">
+  <img src="https://img.shields.io/badge/LeetCode-iamshahid22-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/iam_shahid1309">
+  <img src="https://img.shields.io/badge/HackerRank-iam_shahid1309-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/iamshahid09">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-iamshahid09-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/iam_shahid22">
+  <img src="https://img.shields.io/badge/CodeChef-iam_shahid22-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -414,7 +393,6 @@ graph LR
 
 ---
 
-<!-- Visitor Counter -->
 <div align="center">
 
 ## 👁️ Profile Visitors
@@ -425,7 +403,6 @@ graph LR
 
 ---
 
-<!-- Footer -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together.&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" />
@@ -436,6 +413,6 @@ graph LR
 
 <br/>
 
-*Made with ❤️ by [Shahid](https://github.com/iamshahid22) · Powered by [Shahiddin Shaik](https://github.com/iamshahid22)*
+*Made with ❤️ by [Shahiddin Shaik](https://github.com/iamshahid22)*
 
 </div>
