@@ -184,7 +184,7 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iamshahid22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=iamshahid22&theme=tokyonight" alt="iamshahid22's trophies" />
   </a>
 </div>
 
