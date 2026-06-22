@@ -73,7 +73,9 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 </td>
 <td width="40%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/iamshahid22/iamshahid22/main/photo.png" width="180" alt="Shahiddin Shaik" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iamshahid22/iamshahid22/main/photo.png" width="180" alt="Shahiddin Shaik" style="border-radius: 50%;">
+</div>
 
 </td>
 </tr>
@@ -180,7 +182,11 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamshahid22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iamshahid22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+  </a>
+</div>
 
 ### 📉 Contribution Graph
 
