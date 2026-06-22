@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- SVG Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20Shahid's%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast%20%7C%20AI%20%26%20ML%20Learner%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20 Shahiddin Shaik's%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast%20%7C%20AI%20%26%20ML%20Learner%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there%2C+I'm+Shahid+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AWS+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;AI+%26+ML+Learner+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Let's+build+something+amazing!+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there%2C+I'm+Shahiddin Shaik+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AWS+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;AI+%26+ML+Learner+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Let's+build+something+amazing!+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-iamshahid1309-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:shahiddinshaik1@email.com">
+<a href="mailto:shahiddinshaik1@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
@@ -280,7 +280,7 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 <tr>
 
 <td colspan="2">
-<h3 align="center">🌐 Portfolio Website — ByteByShahid</h3>
+<h3 align="center">🌐 Portfolio Website — Shahiddin</h3>
 <div align="center">
   <a href="https://github.com/iamshahid22/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
@@ -392,7 +392,7 @@ graph LR
   <img src="https://img.shields.io/badge/LinkedIn-iamshahid1309-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:shahiddinshaik1@email.com">
+<a href="mailto:shahiddinshaik1@gmail.com">
   <img src="https://img.shields.io/badge/Email-shahiddinshaik1@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
