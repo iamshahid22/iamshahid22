@@ -1,33 +1,51 @@
-name: Generate Snake
+name: 🐍 Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
+    - cron: "0 12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  generate:
+  generate-snake:
+    name: Generate Snake SVG
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+      actions: read
 
     steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: ✅ Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Generate snake contribution animation
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_size: 1000
 
-      - name: Push snake.svg to the output branch
+      - name: 🚀 Push generated SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: output
+          commit_message: "chore: update snake contribution animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ✨ Workflow completion status
+        if: success()
+        run: |
+          echo "✅ Snake animation generated successfully!"
+          echo "📍 Light mode: https://raw.githubusercontent.com/${{ github.repository }}/output/github-contribution-grid-snake.svg"
+          echo "📍 Dark mode:  https://raw.githubusercontent.com/${{ github.repository }}/output/github-contribution-grid-snake-dark.svg"
