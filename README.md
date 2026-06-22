@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20Shahiddin%20Shaik's%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast%20%7C%20AI%20%26%20ML%20Learner%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%" />
+# 👋 Welcome to Shahiddin Shaik's GitHub!
+### Full Stack Developer | AWS Cloud Enthusiast | AI & ML Learner | Problem Solver
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there%2C+I'm+Shahiddin+Shaik+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AWS+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;AI+%26+ML+Learner+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Let's+build+something+amazing!+%F0%9F%94%A5" alt="Typing SVG" />
@@ -60,7 +61,7 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 
 <table>
 <tr>
-<td>
+<td width="60%" valign="top">
 
 - 🎓 Graduate **B.Tech CSE** — AITS Tirupati
 - 💼 Training at **10000 Coders**, Hyderabad
@@ -70,10 +71,9 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 - ⚡ Fun fact: I code better with lo-fi music on 🎵
 
 </td>
-<td>
+<td width="40%" align="center" valign="top">
 
-<!-- Replace 'photo.png' with your actual uploaded photo filename -->
-<img src="https://raw.githubusercontent.com/iamshahid22/iamshahid22/main/photo.png" width="200" height="200" style="border-radius:50%" alt="Shahiddin Shaik" />
+<img src="https://raw.githubusercontent.com/iamshahid22/iamshahid22/main/photo.png" width="180" alt="Shahiddin Shaik" />
 
 </td>
 </tr>
@@ -397,7 +397,7 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 
 ## 👁️ Profile Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/iamshahid22/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=iamshahid22.iamshahid22)
 
 </div>
 
@@ -405,9 +405,7 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together.&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" />
-
-<br/>
+---
 
 **⭐ Star some repos if you find them useful — it really means a lot! ⭐**
 
