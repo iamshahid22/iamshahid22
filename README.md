@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-iamshahid1309-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:placeholder@email.com">
+<a href="mailto:shahiddinshaik1@email.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
@@ -48,7 +48,7 @@
 </div>
 
 ```yaml
-Name       : S M Shahiddin 
+Name       : Shahiddin Shaik
 Location   : Hyderabad, India 🇮🇳
 Degree     : B.Tech — Computer Science & Engineering
 Focus      : Full Stack Development | Cloud | AI & ML
@@ -392,8 +392,8 @@ graph LR
   <img src="https://img.shields.io/badge/LinkedIn-iamshahid1309-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:placeholder@email.com">
-  <img src="https://img.shields.io/badge/Email-placeholder@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:shahiddinshaik1@email.com">
+  <img src="https://img.shields.io/badge/Email-shahiddinshaik1@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://your-portfolio.vercel.app">
@@ -425,65 +425,6 @@ graph LR
 
 ---
 
-<!-- Setup Instructions -->
-## ⚙️ Setup Instructions
-
-### 🐍 Enable Snake Contribution Animation
-
-1. In your profile repository (`iamshahid22/iamshahid22`), create the folder `.github/workflows/`
-2. Create a file: `.github/workflows/snake.yml`
-3. Paste the following:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-4. Go to **Settings → Actions → General** → Set **Workflow permissions** to **Read and write permissions**
-5. Run the workflow manually from the **Actions** tab → `Generate Snake` → `Run workflow`
-
-> After the workflow runs successfully, your snake animation will appear at:
-> `https://raw.githubusercontent.com/iamshahid22/iamshahid22/output/github-snake-dark.svg`
-
----
-
-### 📊 Enable GitHub Stats (Optional Self-hosting)
-
-For best uptime and reliability, consider self-hosting `github-readme-stats`. See the [official guide](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme.md#deploy-on-your-own-vercel-instance).
-
----
-
 <!-- Footer -->
 <div align="center">
 
@@ -495,6 +436,6 @@ For best uptime and reliability, consider self-hosting `github-readme-stats`. Se
 
 <br/>
 
-*Made with ❤️ by [Shahid](https://github.com/iamshahid22) · Powered by [ByteByShahid](https://github.com/iamshahid22)*
+*Made with ❤️ by [Shahid](https://github.com/iamshahid22) · Powered by [Shahiddin Shaik](https://github.com/iamshahid22)*
 
 </div>
