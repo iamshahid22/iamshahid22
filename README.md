@@ -74,7 +74,7 @@ Hobbies    : Photography 📷 | Travel ✈️ | Sports 🏸 | Open Source 🌐
 <td width="40%" align="center" valign="top">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iamshahid22/iamshahid22/main/photo.png" width="180" alt="Shahiddin Shaik" style="border-radius: 50%;">
+  <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/iamshahid22/iamshahid22/main/photo.png&w=180&h=180&mask=circle" width="180" alt="Shahiddin Shaik">
 </div>
 
 </td>
